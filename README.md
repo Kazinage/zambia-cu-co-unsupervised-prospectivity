@@ -1,5 +1,6 @@
 # Zambia Cu-Co Unsupervised Prospectivity
 
+[![CI](https://github.com/Kazinage/zambia-cu-co-unsupervised-prospectivity/actions/workflows/ci.yml/badge.svg)](https://github.com/Kazinage/zambia-cu-co-unsupervised-prospectivity/actions/workflows/ci.yml)
 **Ensemble unsupervised targeting from airborne gravity, magnetics and radiometrics in a label-scarce exploration setting.**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
