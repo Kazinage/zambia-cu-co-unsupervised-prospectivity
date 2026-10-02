@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this implementation, please cite the associated article."
+title: "Zambia Cu-Co Unsupervised Prospectivity"
+type: software
+authors:
+  - family-names: Saduov
+    given-names: Alisher
+    orcid: "https://orcid.org/0000-0003-1501-7772"
+repository-code: "https://github.com/Kazinage/zambia-cu-co-unsupervised-prospectivity"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Saduov
+      given-names: Alisher
+  title: "Unsupervised Delineation of Prospectivity Zones for Stratiform Cu-Co in the Southern Copperbelt Margin (Zambia)"
+  journal: "Herald of the Kazakh-British Technical University"
+  year: 2026
+  volume: 23
+  issue: 2
+  start: 435
+  end: 450
+  doi: "10.55452/1998-6688-2026-23-2-435-450"
